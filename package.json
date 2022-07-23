@@ -1,0 +1,36 @@
+{
+  "name": "react-app-services",
+  "version": "1.0.0",
+  "description": "react-app-services is a public npm package It contains a package of services that help you create the application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/momenfc/react-app-services.git"
+  },
+  "keywords": [
+    "react-app",
+    "react-app-services",
+    "react-services",
+    "services",
+    "header",
+    "fixed",
+    "fixed-header",
+    "animation",
+    "react",
+    "react-header",
+    "app-header"
+  ],
+  "author": "momen-nasser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/momenfc/react-app-services/issues"
+  },
+  "homepage": "https://github.com/momenfc/react-app-services#readme",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
