@@ -1,3 +1,3 @@
-import useFixedHeaderStyle from "./packages/use-fixed-header";
+import useFixedHeaderStyle from "./packages/useFixedHeaderStyle/useFixedHeaderStyle";
 
 export { useFixedHeaderStyle };
